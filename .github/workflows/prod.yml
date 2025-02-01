@@ -21,6 +21,6 @@ jobs:
             - name: Login docker
               run: docker login -u ${{secrets.DOCKER_USERNAME}} -p ${{secrets.DOCKER_PASSWORD}}
             - name: Build docker image
-              run: docker build -t fabianejava/gestao_vagas .
+              run: docker build -t fabianejava/gestao_vagas:latest .
             - name: Publish image
-              run: docker push fabianejava/gestao_vagas
+              run: docker push fabianejava/gestao_vagas:latest
