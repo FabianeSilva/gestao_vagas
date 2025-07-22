@@ -36,8 +36,7 @@ Para verificar se o código estava funcionando corretamente foi utilizada a Ferr
        "description": "string",
        "createdAt": "2023-10-31T01:47:48.8212"
    },
-    "companyId": "7c6cde6e-675d-4e65-b73b-6644f32f954n",
-    "createdAt": "2023-10-31T01:47:48.8212"
-    
+   "companyId": "7c6cde6e-675d-4e65-b73b-6644f32f954n",
+   "createdAt": "2023-10-31T01:47:48.8212"
 }
     
