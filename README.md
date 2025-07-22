@@ -20,8 +20,7 @@ Este projeto é uma API (Interface de Programação de Aplicações)que tem a fi
 ## Ferramenta utilizada para realização de testes
 Para verificar se o código estava funcionando corretamente foi utilizada a Ferramenta POSTMAN, apresentando a mensagem abaixo relacionada no Body do cadastro:
 
-{
-    
+    {    
     "id": "5a1cde6e-675d-4e65-b73b-6644f32f753c",
     "description": "string",
     "benefits": "string",
@@ -34,8 +33,11 @@ Para verificar se o código estava funcionando corretamente foi utilizada a Ferr
        "website": "string",
        "name": "string",
        "description": "string",
-       "createdAt": "2023-10-31T01:47:48.8212"},
-   "companyId": "7c6cde6e-675d-4e65-b73b-6644f32f954n",
-   "createdAt": "2023-10-31T01:47:48.8212"
-}
+       "createdAt": "2023-10-31T01:47:48.8212"
+       },
+    "companyId": "7c3bde6e-675d-4e65-b73b-6644f32f766b",
+    "createdAt": "2023-10-31T01:47:48.8212"
+    }
+
+
     
